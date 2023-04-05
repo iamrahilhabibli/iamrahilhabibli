@@ -12,6 +12,7 @@
 •	The potential of technology to transform the world for the better** 🌎🌟
 
 -My interests and areas of study:
+
 **•	Full stack web development, including both front-end and back-end technologies 🌐🎨💻
 •	Object-oriented programming and design patterns 🧬🎨
 •	Data structures and algorithms** 📈📊
