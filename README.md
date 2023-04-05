@@ -21,4 +21,4 @@ I'm Rahil, a 💻 full stack student with a passion for programming and technolo
 
 ### How to connect with me:
 
-- I'm excited to connect with fellow students, developers, and anyone with
+- I'm excited to connect with fellow students, developers.
