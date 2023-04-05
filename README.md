@@ -1,16 +1,23 @@
-# 💫 About Me:
-I'm Rahil, a 💻 full stack student with a passion for programming and technology. As a student, I'm constantly learning and exploring new areas of software development. I'm excited to share my journey with others and connect with like-minded individuals who share my passion.<br>What motivates me:<br>•	The challenge and satisfaction of solving complex problems with elegant solutions 💪🏼💡<br>•	The ability to create something from scratch and see it come to life 🚀🌱<br>•	The potential of technology to transform the world for the better 🌎🌟<br>My interests and areas of study:<br>•	Full stack web development, including both front-end and back-end technologies 🌐🎨💻<br>•	Object-oriented programming and design patterns 🧬🎨<br>•	Data structures and algorithms 📈📊<br>What I'm currently learning:<br>•	Currently a student at the Code Academy completing course in Full-Stack Development.<br>•	Always looking for new resources and opportunities to expand my knowledge and skills 📚👀💪🏼<br>How to connect with me:<br>•	I'm excited to connect with fellow students, developers, and anyone with<br>
+<h1 align="center">Hi 👋, I'm Rahil Habibli</h1>
+<h3 align="center">A passionate Full-Stack student.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahilhabibli&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahilhabibli" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamthenotorioushr) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/iamthenotoriousrh) 
+- 🌱 I’m currently learning **Full-Stack development in CodeAcademy**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamrahilhabibli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=iamrahilhabibli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamrahilhabibli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 💬 Ask me about **C-family programming languages**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 📫 How to reach me **rhabibli@outlook.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://stackoverflow.com/users/iamthenotoriousrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iamthenotoriousrh" height="30" width="40" /></a>
+<a href="https://instagram.com/iamthenotorioushr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamthenotorioushr" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamrahilhabibli&show_icons=true&locale=en&layout=compact" alt="iamrahilhabibli" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamrahilhabibli&show_icons=true&locale=en" alt="iamrahilhabibli" /></p>
