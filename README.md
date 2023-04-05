@@ -4,8 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahilhabibli&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahilhabibli" /> </p>
 
 - 🌱 I’m currently learning **Full-Stack development in CodeAcademy**
-
-- What motivates me? 
+- <h3 align="left"What motivates me?</h3>
 
 **•	The challenge and satisfaction of solving complex problems with elegant solutions 💪🏼💡
 •	The ability to create something from scratch and see it come to life 🚀🌱
