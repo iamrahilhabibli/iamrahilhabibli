@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rahil Habibli</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Rahil.;I'm+Full+Stack+development+student.)](https://git.io/typing-svg)
+---
 <h3 align="center">I am a passionate full stack student with a deep interest in software development and technology. Highly motivated and dedicated to learning and growing in this field, I am committed to acquiring the knowledge and skills required to become a successful full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahilhabibli&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahilhabibli" /> </p>
