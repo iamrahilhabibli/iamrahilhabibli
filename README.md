@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **Full-Stack development in CodeAcademy**
 
+- What motivates me? **
+- •	The challenge and satisfaction of solving complex problems with elegant solutions 💪🏼💡
+•	The ability to create something from scratch and see it come to life 🚀🌱
+•	The potential of technology to transform the world for the better 🌎🌟**
+
+
 - 💬 Ask me about **C-family programming languages**
 
 - 📫 How to reach me **rhabibli@outlook.com**
