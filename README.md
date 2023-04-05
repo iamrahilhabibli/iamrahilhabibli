@@ -13,19 +13,44 @@
     <li>Using technology to make the world a better place 🌎🌟</li>
   </ul>
 
-  <p>My interests and areas of study include:</p>
+  <h3 align="left">My Interests and Areas of Study</h3>
   <ul>
     <li>Full stack web development, including front-end and back-end technologies 🌐🎨💻</li>
     <li>Object-oriented programming and design patterns 🧬🎨</li>
     <li>Data structures and algorithms 📈📊</li>
   </ul>
 
-  <p>Currently, I'm a student at CodeAcademy completing a Full-Stack Development course, and I'm always on the lookout for new resources and opportunities to expand my knowledge and skills 📚👀💪🏼.</p>
+  <p>I'm always on the lookout for new resources and opportunities to expand my knowledge and skills 📚👀💪🏼.</p>
 
   <p>💬 Feel free to ask me about C-family programming languages.</p>
 
   <p>📫 You can reach me at <a href="mailto:rhabibli@outlook.com">rhabibli@outlook.com</a>.</p>
 </div>
+
+<style>
+  div {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  h3 {
+    color: #333;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+</style>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
