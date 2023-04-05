@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahil Habibli</h1>
-<h3 align="center">full stack student with a passion for programming and technology. As a student, I'm constantly learning and exploring new areas of software development. I'm excited to share my journey with others and connect with like-minded individuals who share my passion</h3>
+<h2 align="center">I am a full stack student with a passion for programming and technology. As a student, I'm constantly learning and exploring new areas of software development. I'm excited to share my journey with others and connect with like-minded individuals who share my passion</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
