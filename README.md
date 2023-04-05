@@ -3,30 +3,22 @@
 <h3 align="center">I am a passionate full stack student with a deep interest in software development and technology. Highly motivated and dedicated to learning and growing in this field, I am committed to acquiring the knowledge and skills required to become a successful full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahilhabibli&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahilhabibli" /> </p>
+🌱 I'm currently learning Full-Stack development at the CodeAcademy.
 
-- 🌱 I’m currently learning **Full-Stack development in CodeAcademy**
-- <h3 align="left"What motivates me?</h3>
+<h3 align="left">What motivates me?</h3>
+Solving complex problems with elegant solutions 💪🏼💡
+Creating something from scratch and seeing it come to life 🚀🌱
+Using technology to make the world a better place 🌎🌟
+My interests and areas of study include:
 
-**•	The challenge and satisfaction of solving complex problems with elegant solutions 💪🏼💡
-•	The ability to create something from scratch and see it come to life 🚀🌱
-•	The potential of technology to transform the world for the better** 🌎🌟
+Full stack web development, including front-end and back-end technologies 🌐🎨💻
+Object-oriented programming and design patterns 🧬🎨
+Data structures and algorithms 📈📊
+Currently, I'm a student at CodeAcademy completing a Full-Stack Development course, and I'm always on the lookout for new resources and opportunities to expand my knowledge and skills 📚👀💪🏼.
 
-- My interests and areas of study:
+💬 Feel free to ask me about C-family programming languages.
 
-**•	Full stack web development, including both front-end and back-end technologies 🌐🎨💻
-•	Object-oriented programming and design patterns 🧬🎨
-•	Data structures and algorithms** 📈📊
-
-- What I'm currently learning:
-•	**Currently a student at the Code Academy completing course in Full-Stack Development.
-•	Always looking for new resources and opportunities to expand my knowledge and skills** 📚👀💪🏼
-
-
-
-
-- 💬 Ask me about **C-family programming languages**
-
-- 📫 How to reach me **rhabibli@outlook.com**
+📫 You can reach me at rhabibli@outlook.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
