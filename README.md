@@ -27,31 +27,6 @@
   <p>📫 You can reach me at <a href="mailto:rhabibli@outlook.com">rhabibli@outlook.com</a>.</p>
 </div>
 
-<style>
-  div {
-    background-color: #f2f2f2;
-    padding: 20px;
-    border-radius: 5px;
-  }
-  
-  h3 {
-    color: #333;
-    font-weight: bold;
-    margin-top: 10px;
-  }
-  
-  ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  
-  li {
-    margin-bottom: 10px;
-  }
-</style>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/iamthenotoriousrh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="iamthenotoriousrh" height="30" width="40" /></a>
