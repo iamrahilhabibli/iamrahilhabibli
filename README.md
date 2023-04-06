@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahilhabibli&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahilhabibli" /> </p>
 <div>
-  <p><em>🌱 I'm currently learning Full-Stack development through CodeAcademy.</em></p>
+  <p><em>🌱 I'm currently learning Full-Stack development at the CodeAcademy.</em></p>
 
   <h3 align="left">What motivates me?</h3>
   <ul>
