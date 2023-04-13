@@ -2,27 +2,6 @@
 ---
 <h3 align="center">I am a passionate full stack student with a deep interest in software development and technology. Highly motivated and dedicated to learning and growing in this field, I am committed to acquiring the knowledge and skills required to become a successful full stack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrahilhabibli&label=Profile%20views&color=0e75b6&style=flat" alt="iamrahilhabibli" /> </p>
-<div>
-  <p><em>🌱 I'm currently learning Full-Stack development at the CodeAcademy.</em></p>
-
-  <h3 align="left">What motivates me?</h3>
-  <ul>
-    <li>Solving complex problems with elegant solutions 💪🏼💡</li>
-    <li>Creating something from scratch and seeing it come to life 🚀🌱</li>
-    <li>Using technology to make the world a better place 🌎🌟</li>
-  </ul>
-
-  <h3 align="left">My Interests and Areas of Study</h3>
-  <ul>
-    <li>Full stack web development, including front-end and back-end technologies 🌐🎨💻</li>
-    <li>Object-oriented programming and design patterns 🧬🎨</li>
-    <li>Data structures and algorithms 📈📊</li>
-  </ul>
-
-  <p>I'm always on the lookout for new resources and opportunities to expand my knowledge and skills 📚👀💪🏼.</p>
-
-  <p>💬 Feel free to ask me about C-family programming languages.</p>
 
   <p>📫 You can reach me at <a href="mailto:rhabibli@outlook.com">rhabibli@outlook.com</a>.</p>
 </div>
