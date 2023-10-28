@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Rahil+Habibli.;I'm+currently+studying,;To+become+a+full+stack+developer.)](https://git.io/typing-svg)
 ---
-<h3 align="center">I am a passionate full stack student with a deep interest in software development and technology. Highly motivated and dedicated to learning and growing in this field, I am committed to acquiring the knowledge and skills required to become a successful developer.</h3>
+<h3 align="center">I am a passionate full stack developer with a deep interest in software development and technology. Highly motivated and dedicated to learning and growing in this field, I am committed to acquiring the knowledge and skills required to become a successful developer.</h3>
 
 
   <p>📫 You can reach me at <a href="mailto:rhabibli@outlook.com">rhabibli@outlook.com</a>.</p>
