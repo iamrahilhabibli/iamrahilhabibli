@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Hello,+my+name+is+Rahil+Habibli.;I'm+Back-End+heavy,;FullStack+developer,;Fascinated+by+.NET+Framework.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&color=2BF723&lines=Greetings%2C+I'm+Rahil+Habibli+👋%3B+A+FullStack+Maestro%2C+Mastering+the+Digital+Realms.;Currently+unraveling+the+mysteries+of+Network+Security+%F0%9F%94%92%3B;In+awe+of+the+hidden+powers+of+the+.NET+Framework+%E2%9A%99%EF%B8%8F%2C+crafting+the+future+of+cyberspace.)](https://git.io/typing-svg)
+
 ---
 <h3 align="center">I am a passionate full stack developer with a deep interest in software development and technology. Highly motivated and dedicated to learning and growing in this field, I am committed to acquiring the knowledge and skills required to become a successful developer.</h3>
 
